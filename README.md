@@ -25,13 +25,13 @@ Automates .csv workflow by converting CSVs to Excel, generating pivot tables, va
 ## 📂 Sample Files
 - **Input:** `DEMO_WAFERMAP_08.wmap.csv`  
 - **Output:** `DEMO_WAFERMAP_08.wmap.xlsx`  
-- **Dashboard Screenshot:** `Deliverables Automation with Wafermap GUI.png`  
+- **Dashboard Screenshot:** `CSV Workflow Automation Dashboard v1.0.0.png`  
 
 These files are dummy inputs included for demonstration purposes only. They are synthetic examples and do not contain any client or company data. Their purpose is to allow recruiters and collaborators to quickly test the workflow and visualize the results.
 
 ## 📸 Screenshots
 ### GUI Dashboard
-![Deliverables Automation with Wafermap GUI]()
+![CSV Workflow Automation Dashboard v1.0.0]()
 
 ## 🌟 Impact
 - Marked the first release to include wafermap visualization, enabling engineers to see yield and defect distribution visually.  
@@ -42,7 +42,7 @@ These files are dummy inputs included for demonstration purposes only. They are 
   
 ## 📦 Download
 The latest release (with `.exe` build) is available here:  
-[➡️ Deliverables Automation Tool v1.0.0]()
+[➡️ CSV Workflow Automation Tool v1.0.0]()
 
 ## 👩‍💻 Author
 **Rose Anne Lafuente**  
