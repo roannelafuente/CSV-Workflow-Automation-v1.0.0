@@ -31,7 +31,7 @@ These files are dummy inputs included for demonstration purposes only. They are 
 
 ## 📸 Screenshots
 ### GUI Dashboard
-![CSV Workflow Automation Dashboard v1.0.0]()
+![CSV Workflow Automation Dashboard v1.0.0](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.0.0/blob/main/CSV%20Workflow%20Automation%20Dashboard%20v1.0.0.png)
 
 ## 🌟 Impact
 - Marked the first release to include wafermap visualization, enabling engineers to see yield and defect distribution visually.  
@@ -42,7 +42,7 @@ These files are dummy inputs included for demonstration purposes only. They are 
   
 ## 📦 Download
 The latest release (with `.exe` build) is available here:  
-[➡️ CSV Workflow Automation Tool v1.0.0]()
+[➡️ CSV Workflow Automation Tool v1.0.0](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.0.0/releases/download/v1.0.0/CSV.Workflow.Automation.v1.0.0.zip)
 
 ## 👩‍💻 Author
 **Rose Anne Lafuente**  
