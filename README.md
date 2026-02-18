@@ -2,6 +2,15 @@
 
 ## 📖 Description
 Automates .csv workflow by converting CSVs to Excel, generating pivot tables, validating End Test numbers, and creating wafermap visualizations for yield and defect tracking. Built with Python, Tkinter, OpenPyXL, and xlwings, it streamlines workflows and ensures reproducible, audit‑ready insights
+---
+
+## 📌 Disclaimer
+This project is a portfolio demonstration built entirely with synthetic/dummy data.
+While the workbook structure and formatting are inspired by typical engineering workflows, all headers, values, and examples have been replaced with generic placeholders.
+No proprietary intellectual property, client data, or company‑specific conventions are included.
+Its sole purpose is to showcase automation techniques, reproducible workflows, and technical skills in Python, Tkinter, OpenPyXL, and xlwings.
+
+---
 
 ## 🚀 Features
 - **CSV → Excel Conversion**  
